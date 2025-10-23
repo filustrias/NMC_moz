@@ -1,8 +1,67 @@
 # Modelos de Cuidado {.unnumbered}
 
-O que são modelos de cuidado.
+
+
+## O que são Modelos de Cuidado (Models of Care - MoC)?
+
+Um **Modelo de Cuidado (MoC)** é a conceitualização e operacionalização da forma como os serviços de saúde são entregues aos pacientes. Isso inclui os processos de cuidado, a organização dos prestadores e a gestão dos serviços, apoiados pela identificação clara dos papéis e responsabilidades das diferentes plataformas e prestadores ao longo dos percursos de cuidado.
+
+Um Modelo de Cuidado orientado para a Atenção Primária à Saúde (APS) é a **maneira como os serviços são selecionados, projetados, organizados, gerenciados e apoiados** pelas diferentes plataformas de prestação de serviços - presenciais, à distância, no domicílio.
+
+O desenvolvimento de um MoC orientado para a APS é uma prioridade máxima para a construção de um sistema de saúde resiliente e seguro. 90% das intervenções recomendadas para a Cobertura Universal de Saúde (CUS) podem ser fornecidas através da APS.
+
+## Organização e Tipos de Modelos de Cuidado
+
+Embora os componentes de um MoC possam variar, eles geralmente abrangem: a seleção e organização dos serviços (incluindo o pacote de serviços essenciais); a definição dos papéis e funções das plataformas de entrega de serviços; a gestão dos serviços (incluindo supervisão de apoio e equipes multidisciplinares); e a gestão da saúde populacional (incluindo o sistema de **alistamento** também chamado de *empanelment* ou **carterização** em português brasileiro — e o envolvimento comunitário).
+
+**Exemplos e Abordagens de Organização:**
+
+1.  **Modelo Orientado para a Prática Familiar (Family Practice Approach - FPA):** Esta abordagem está sendo implementada em vários países da Região do Mediterrâneo Oriental (EMR). Ela transforma a abordagem de prestação de serviços de **individual para familiar e integrada**. O FPA busca fortalecer o elo entre a saúde comunitária e os serviços baseados em instalações.
+2.  **Modelo Hub and Spokes (Gana):** Em Gana, a iniciativa *Preferred Primary Provider (PPP) Networks* utiliza o modelo **Hub and Spokes (Centro e Raios)**. Neste modelo, quatro a cinco zonas menores (Raios) se conectam a um Centro de Saúde ou CHPS (Serviços de Planejamento e Saúde Comunitária) maior e mais capacitado (Centro), formando uma prática de grupo para fornecer cuidados abrangentes a uma população definida. Este modelo enfatiza a **colaboração** entre prestadores em vez da competição.
+3.  **Modelos de Organização de APS no Brasil:** Um estudo comparou o **Modelo de APS Tradicional** com o modelo da **Estratégia de Saúde da Família (ESF)**. O modelo ESF mostrou uma associação positiva e estatisticamente significante com uma **maior frequência de práticas** voltadas às Pessoas com Deficiência (PcD), como acompanhamento pré-natal, atendimento domiciliar e educação em saúde, em comparação com o Modelo de APS Tradicional.
+
+#### Enquadramentos Teóricos: O Esquema 5S-5M-5C
+
+O esquema **5S-5M-5C** é um modelo conceitual simplificado, derivado da *Primary Health Care Performance Initiative* (PHCPI), que detalha os mecanismos de prestação de serviços essenciais necessários para transformar insumos em sistemas de APS funcionais e equitativos. O objetivo principal é **transformar insumos do sistema nos resultados desejados da APS**.
+
+O esquema 5S-5M-5C propõe que a presença dos insumos **5S** e sua utilização eficaz através dos mecanismos **5M** produzirão as funções **5C**, garantindo cobertura efetiva de serviços de APS de alta qualidade e produzindo melhor saúde populacional.
+
+### **1. Os 5S (Insumos - Inputs)**
+
+Os 5S representam os componentes fundamentais do sistema de saúde que devem estar disponíveis e equipados. Eles expandem os 4S (Sistemas, Espaço, Pessoal, Material) propostos por Paul Farmer, adicionando a Vigilância (Surveillance):
+
+*   **S** *ystems* (Sistemas): Refere-se à governança e aos sistemas de informação necessários para a prestação de cuidados.
+*   **S** *pace* (Espaço): Inclui a infraestrutura física das instalações de APS.
+*   **S** *taff* (Pessoal/Força de Trabalho): Envolve prestadores disponíveis, apropriadamente treinados e financiados.
+*   **S** *tuff* (Material): Refere-se a medicamentos, suprimentos e equipamentos necessários.
+*   **S** *urveillance* (Vigilância): Capacidade de identificar ameaças emergentes e avaliar/responder continuamente às necessidades da comunidade ao longo do tempo.
+
+### **2. Os 5M (Mecanismos de Prestação de Serviços - Mechanisms)**
+
+Os 5M são os mecanismos de serviço cruciais que preenchem a lacuna entre os Insumos (5S) e as Funções (5C), garantindo que a APS seja eficaz e equitativa:
+
+*   **M** *ulti-disciplinary teams* (Equipes Multidisciplinares): Envolvem a formação, treinamento e apoio a equipes de prestadores (incluindo médicos, enfermeiros, agentes comunitários de saúde e outras disciplinas) que trabalham juntos para atender às necessidades individuais e populacionais.
+*   **M** *otivation* (Motivação): Alavancas extrínsecas (como salários adequados e incentivos baseados em desempenho) e intrínsecas (como supervisão de apoio) são necessárias para sustentar a prestação de cuidados competentes e eficazes.
+*   **M** *easurement* (Medição): Coleta contínua de dados para informar e impulsionar a melhoria. É necessário reduzir a grande quantidade de indicadores específicos de doenças e aproveitar os avanços nos sistemas de informação.
+*   **M** *onitoring* (Monitoramento): Uso ativo e regular dos dados de medição para impulsionar a melhoria contínua da qualidade.
+*   **M** *anagement* (Gestão): Sistemas de **gestão de saúde da população e da instalação** devem coordenar o cuidado eficiente. A gestão da saúde populacional é imperativa para a avaliação proativa e a melhoria da saúde de populações inteiras, ligando serviços entre comunidades e instalações.
+
+### **3. Os 5C (Funções de Qualidade - Functions)**
+
+Os 5C representam as funções que um sistema de APS bem-sucedido deve entregar. Eles expandem os 4C de Barbara Starfield (Acessibilidade de Primeiro Contato, Continuidade, Abrangência e Coordenação) com a adição do Cuidado Centrado na Pessoa:
+
+*   **C** *ontact* (Contato/Acessibilidade): Garantir que os serviços sejam acessíveis no momento e local em que as pessoas precisam e de maneira financeiramente acessível.
+*   **C** *ontinuity* (Continuidade): Fomentar relacionamentos contínuos e longitudinais entre paciente e prestador.
+*   **C** *omprehensiveness* (Abrangência): Otimizar a provisão de serviços preventivos, de gestão crônica e curativos agudos para atender às necessidades de saúde.
+*   **C** *oordination* (Coordenação): Otimizar a jornada do indivíduo através de um sistema de saúde complexo.
+*   **C** *o-centered (Person-centred)* (Centrado na Pessoa): Significa que as necessidades e preferências do paciente são respeitadas, construindo confiança no sistema de APS.
+
+Para o desenvolvimento da APS, é crucial **priorizar investimentos e pesquisas nos mecanismos 5M**, pois o foco histórico apenas nos insumos (4S’s) por meio de programas verticais tem sido insuficiente para alcançar a CUS de maneira sustentável e equitativa.
+
 
 ![Modelo esquemático 5S5M5C](images/5S5M5C.png)
 
+Importante lembrar que o enquadramento 5S5M5C não se trata de uma resposta pronta para a forma de organizar o Modelo de Cuidado, mas sim um enquadramento com domínios explícitos para que, ao se planejar um serviço de saúde, nenhum aspecto importante fique de fora. 
 
-Novas imagens
+
+-----

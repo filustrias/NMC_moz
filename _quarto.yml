@@ -10,6 +10,7 @@ book:
     - introducao.qmd
     - modelos_de_cuidado.qmd
     - personas.qmd
+    - itinerario.qmd
     - nossas_personas.qmd
     - tarefas_e_cronograma.qmd
 
@@ -19,7 +20,8 @@ format:
   html:
     theme:
       light: flatly
-      dark: cyborg
+      dark: darkly
+    default-color-scheme: dark
     # mainfont: "Nunito Sans"
     # sansfont: "Poppins"
     # googlefonts: true

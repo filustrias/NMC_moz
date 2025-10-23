@@ -1,1 +1,11 @@
 # Tarefas e Cronograma {.unnumbered}
+
+1.  Revisão 5S5M5C - Revisar conceito, domínios, identificar as fortalezas e fragilidades do nosso modelo atual.
+
+2.  Definição de personas - Situações clínicas comuns e prevalentes, já cobertas e outras não cobertas pelo modelo de cuidados atual. Começamos a definí-las em 22 de outubro de 2025.
+
+3.  Itinerários terapêuticos - Desenhar o itinerário terapêutico de cada persona através do 5S5M5C. Começaremos na reunião da seman que vem, dia 29 de outubro. Esta tarefa utilizará como metodologia a Experience-Based Design (EBD), descrita no manual publicado pelo NHS britânico. Este manual mostra como narrativas, personas, e itinerários podem saer usados para estruturar melhorias no desenho de serviços de saúde. [NHS - Experience based design Using patient and staff experience to design better healthcare services](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf){target="_blank"}
+
+4.  Desenho Novo Modelo de Cuidados - Através da análise do itinerário das personas, identificamos o que precisamos – e podemos hoje – ter no nosso NMC.
+
+5.  Desenho prontuário - Usando o KoboTootlBox desenhamos um instrumento eletrônico para registro de informações de pacientes.

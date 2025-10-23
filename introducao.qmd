@@ -1,3 +1,8 @@
 # Sobre este projeto {.unnumbered}
 
-Este documento foi criado para organizar as etapas e tarefas proposta para condução nosso projeto para a **criação de un Novo Modelo de Cuidado em Moçambique.**
+Este documento foi criado para organizar as etapas e tarefas proposta para condução nosso projeto para a **criação de um Novo Modelo de Cuidado em Moçambique.**
+
+
+## OBJETIVO deste projeto
+
+Desenhar, implementar e avaliar o impacto de um Novo Modelo de Cuidados (NMC) para os CSP moçambicanos que incorpore os serviços atualmente fragmentados em um novo modelo mais acessível, continuado e coordenado com o restante do sistema de saúde, centrado nas necessidades de cuidado dos pacientes e que amplie a abrangência da carteira de serviços ofertada à população.

@@ -1,4 +1,4 @@
-# Aplicabilidade do uso de personas para melhorias no sistema de saúde através do itinerário terapêutico {.unnumbered}
+# Como usar personas e itinerários terapêuticos para melhorar o sistema de saúde {.unnumbered}
 
 ## Por que usar personas em trajetórias de cuidado
 
@@ -28,83 +28,77 @@ Personas tornam visíveis as etapas críticas (pré-busca de cuidado → acesso 
 
 1.  APS e acesso digital (Brasil/APS remota)
 
-```         
-1.  Personas: “Dona Maria, 72, baixa escolaridade, múltiplas DCNT, smartphone compartilhado;” “Seu José, 58, trabalhador informal, dados móveis intermitentes”.
-
-    -   Uso: mapear barreiras de triagem digital, agendamento e renovação de receitas; co-desenhar fluxos multimodais (telefone + WhatsApp + presencial), mensagens em linguagem simples, e apoio de navegação comunitária.
-
-    -   Evidência: personas para vulnerabilidade digital em APS e persona-cenário em intervenção com idosos. ([bjgp.org](https://bjgp.org/content/74/741/e250 "Developing user personas to capture intersecting ..."))
-```
+         
+- Personas: “Dona Maria, 72, baixa escolaridade, múltiplas DCNT, smartphone compartilhado;” “Seu José, 58, trabalhador informal, dados móveis intermitentes”.
+- Uso: mapear barreiras de triagem digital, agendamento e renovação de receitas; co-desenhar fluxos multimodais (telefone + WhatsApp + presencial), mensagens em linguagem simples, e apoio de navegação comunitária.
+- Evidência: personas para vulnerabilidade digital em APS e persona-cenário em intervenção com idosos.
+Husain L et al. BJGP, 2024. [Developing user personas to capture intersecting disadvantage in remote/digital primary care](https://bjgp.org/content/74/741/e250){target="_blank"}
 
 2.  Oncologia (linha de diagnóstico e tratamento)
 
-```         
-1.  'Personas: “mulher 45a com cuidado infantil, renda instável, sintomas intermitentes”; “homem 67a rural, sem carro, baixa literacia em saúde”.
+- 'Personas: “mulher 45a com cuidado infantil, renda instável, sintomas intermitentes”; “homem 67a rural, sem carro, baixa literacia em saúde”.
+- Uso: journey maps por persona → tempos de espera por etapa; prototipar papel de “navegador de percurso”, pré-consulta remota para preparo de exames e sinalização ativa de faltas.
+- Contexto e guias: padrões de via rápida (28/62 dias), casos NHS de redesenho de vias; personas aumentam a aderência da equipe a soluções centradas no paciente.[Case Study – Introducing the Role of Pathway Navigator to the South East Region Cancer Alliances – a current project](https://wessex.hee.nhs.uk/wider-workforce/cancer/11-cancer-and-diagnostics-careers-a-helpful-resource-guide/05-case-study-introducing-the-role-of-pathway-navigator-to-the-south-east-region-cancer-alliances-a-current-project/){target="_blank"}
 
-    -    Uso: journey maps por persona → tempos de espera por etapa; prototipar papel de “navegador de percurso”, pré-consulta remota para preparo de exames e sinalização ativa de faltas.
 
-    -   Contexto e guias: padrões de via rápida (28/62 dias), casos NHS de redesenho de vias; personas aumentam a aderência da equipe a soluções centradas no paciente. ([wessex.hee.nhs.uk](https://wessex.hee.nhs.uk/wider-workforce/cancer/11-cancer-and-diagnostics-careers-a-helpful-resource-guide/05-case-study-introducing-the-role-of-pathway-navigator-to-the-south-east-region-cancer-alliances-a-current-project/ "Case Study - Introducing the Role of Pathway Navigator to the ..."))
-```
 
 3.  Condições crônicas e autocuidado digital
 
-```         
-1.  Personas orientam conteúdo, feedback e escalonamento clínico em apps de dor crônica/condições crônicas, aumentando relevância e engajamento ao longo da trajetória (auto-monitoramento → APS → especializada). ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214782923000192 "Using Personas in the development of eHealth ..."))
-```
+- Personas orientam conteúdo, feedback e escalonamento clínico em apps de dor crônica/condições crônicas, aumentando relevância e engajamento ao longo da trajetória (auto-monitoramento → APS → especializada). [Using Personas in the development of eHealth interventions: chronic pain](https://www.sciencedirect.com/science/article/pii/S2214782923000192).
+
+
 
 ## Passo a passo recomendado (rápido e acionável)
 
-1.  Defina escopo da linha de cuidado (ex.: “suspeita-diagnóstico-início de tratamento em câncer de cabeça e pescoço”). Liste metas (p.ex., tempo até diagnóstico, taxa de não comparecimento, continuidade). ([Q Community](https://q.health.org.uk/resources/using-lean-to-redesign-pathways "Using Lean to redesign pathways - Q Community"))
+1.  Defina escopo da linha de cuidado (ex.: “suspeita-diagnóstico-início de tratamento em câncer de cabeça e pescoço”). Liste metas (p.ex., tempo até diagnóstico, taxa de não comparecimento, continuidade). [Using Lean to redesign pathways](https://q.health.org.uk/resources/using-lean-to-redesign-pathways){target="_blank"}
 
-2.  Colete dados mistos: entrevistas/observação, bases administrativas, tempos de fluxo, queixas, reclamações, dados de desigualdade. (EBD/EBCD). ([NHS England](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf "Experience Based Design: Guide & Tools"))
+2.  Colete dados mistos: entrevistas/observação, bases administrativas, tempos de fluxo, queixas, reclamações, dados de desigualdade. (EBD/EBCD). [NHS - Experience based design Using patient and staff experience to design better healthcare services](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf){target="_blank"}
 
-3.  Crie personas ancoradas em evidências (não estereótipos): sintetize padrões de necessidades e comportamentos; valide com usuários e equipe clínica. ([BioMed Central](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-019-1013-9 "Health TAPESTRY: co-designing interprofessional primary ..."))
+3.  Crie personas ancoradas em evidências (não estereótipos): sintetize padrões de necessidades e comportamentos; valide com usuários e equipe clínica.[Health TAPESTRY: co-designing interprofessional primary care programs for older adults using the persona-scenario method](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-019-1013-9){target="_blank"}
 
-4.  Incorpore equidade com PROGRESS-Plus na criação das personas (residência, raça/etnia, ocupação, gênero, escolaridade, renda, capital social, deficiência etc.). ([methods.cochrane.org](https://methods.cochrane.org/equity/projects/evidence-equity/progress-plus "PROGRESS-Plus | Cochrane Equity"))
+4.  Incorpore equidade com PROGRESS-Plus na criação das personas (residência, raça/etnia, ocupação, gênero, escolaridade, renda, capital social, deficiência etc.).Cochrane Equity. [PROGRESS-Plus | Cochrane Equity](https://methods.cochrane.org/equity/projects/evidence-equity/progress-plus){target="_blank"}
 
-5.  Mapeie a jornada por persona: passos, emoções, dores, pontos de handoff, canais, prazos; identifique gargalos e riscos de segurança. (Use oficinas de co-design). ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10588545/ "Co-design with Integrated Care Teams: Establishing ..."))
+5.  Mapeie a jornada por persona: passos, emoções, dores, pontos de handoff, canais, prazos; identifique gargalos e riscos de segurança. (Use oficinas de co-design). [Co-design with Integrated Care Teams: Establishing Information Needs](https://pmc.ncbi.nlm.nih.gov/articles/PMC10588545/){target="_blank"}
 
-6.  Coconstrua soluções: navegação de percurso, checklists de preparo, mensagens segmentadas, triagem combinada digital/presencial, “one-stop clinics”, ajustes de agenda/regulação. (Teste com cenários de cada persona). ([Fab NHS Stuff](https://fabnhsstuff.net/fab-stuff/re-designing-cancer-pathways "Re-designing Cancer Pathways"))
+6.  Coconstrua soluções: navegação de percurso, checklists de preparo, mensagens segmentadas, triagem combinada digital/presencial, “one-stop clinics”, ajustes de agenda/regulação. (Teste com cenários de cada persona). [Re-designing Cancer Pathways - Fab NHS Stuff](https://fabnhsstuff.net/fab-stuff/re-designing-cancer-pathways){target="_blank"}
 
-7.  Implemente e meça: defina indicadores por persona (tempo até diagnóstico, completude de exames, readmissões, experiência relatada) e retroalimente o desenho. (EBD/EBCD). ([NHS England](#0 "Experience Based Design: Guide & Tools"))
+7.  Implemente e meça: defina indicadores por persona (tempo até diagnóstico, completude de exames, readmissões, experiência relatada) e retroalimente o desenho. (EBD/EBCD). [NHS - Experience based design Using patient and staff experience to design better healthcare services](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf){target="_blank"}
 
 ## Limitações e como mitigá-las
 
--   Construção subjetiva/sesgos → mitigar com dados reais, métodos transparentes, validação com usuários, e atualização periódica. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+-   Construção subjetiva/sesgos → mitigar com dados reais, métodos transparentes, validação com usuários, e atualização periódica. [The use of personas to involve consumers in healthcare co-design: a scoping review](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7)
 
--   Custo/tempo → usar templates e kits (NHS Horizons/EBD), amostras teóricas enxutas e priorização por alto impacto no fluxo. ([NHS Horizons](https://horizonsnhs.com/programmes-of-work/personas/ "Personas"))
+-   Custo/tempo → usar templates e kits (NHS Horizons/EBD), amostras teóricas enxutas e priorização por alto impacto no fluxo. [Personas: Using psychographic analysis to better understand groups of users. What are personas?](https://horizonsnhs.com/programmes-of-work/personas/){target="_blank"}
 
--   Baixa representação de determinantes (raça/etnia, escolaridade, renda, religião) → exigir checklist PROGRESS-Plus em cada persona e metas de inclusão. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+-   Baixa representação de determinantes (raça/etnia, escolaridade, renda, religião) → exigir checklist PROGRESS-Plus em cada persona e metas de inclusão. [The use of personas to involve consumers in healthcare co-design: a scoping review](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7){target="_blank"}
 
 ## Referências essenciais (seleção)
 
-Dominello A, Cheek C, Clay-Williams R. *The use of personas to involve consumers in healthcare co-design: a scoping review*. BMC Health Serv Res, 2025. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+Dominello A, Cheek C, Clay-Williams R. BMC Health Serv Res, 2025. [The use of personas to involve consumers in healthcare co-design: a scoping review](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7)
 
-Bartels SL et al. *Using Personas in the development of eHealth interventions: chronic pain*. 2023. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214782923000192 "Using Personas in the development of eHealth ..."))
+Bartels SL et al. 2023. [Using Personas in the development of eHealth interventions: chronic pain](https://www.sciencedirect.com/science/article/pii/S2214782923000192)
 
-Cooper DJ et al. *Enhancing healthcare with patient personas: a systematic review*. J Healthc Risk Manag, 2025. ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/jhrm.70014 "Enhancing healthcare with patient personas: A systematic ..."))
+Cooper DJ et al. J Healthc Risk Manag, 2025. [Enhancing healthcare with patient personas: a systematic review](https://onlinelibrary.wiley.com/doi/10.1002/jhrm.70014){target="_blank"}
 
-Wärnestål P et al. *Effects of Using Child Personas… childhood cancer survivors*. J Med Internet Res, 2017. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5454220/ "Effects of Using Child Personas in the Development of a ..."))
+Wärnestål P et al. J Med Internet Res, 2017. [Effects of Using Child Personas… childhood cancer survivors](https://pmc.ncbi.nlm.nih.gov/articles/PMC5454220/){target="_blank"}
 
-Valaitis R et al. *Persona-scenario exercise for co-designing primary care interventions*; e *Health TAPESTRY*. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3952768/ "Persona-scenario exercise for codesigning primary care ..."))
+Valaitis R et al. Can Fam Physician. 2014 Mar;60(3):294-296.([Persona-scenario exercise for co-designing primary care interventions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3952768/){target="_blank"}
 
-Husain L et al. *Developing user personas to capture intersecting disadvantage in remote/digital primary care*. BJGP, 2024. ([bjgp.org](https://bjgp.org/content/74/741/e250 "Developing user personas to capture intersecting ..."))
+Husain L et al. BJGP, 2024. [Developing user personas to capture intersecting disadvantage in remote/digital primary care](https://bjgp.org/content/74/741/e250){target="_blank"}
 
-NHS Institute. *Experience-Based Design: Guide & Toolkit*. ([NHS England](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf "Experience Based Design: Guide & Tools"))
+NHS Institute. *Experience-Based Design: Guide & Toolkit*. [NHS - Experience based design Using patient and staff experience to design better healthcare services](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf){target="_blank"}
 
-IHI/Commonwealth Fund. *Experience-Based Co-Design of Health Care Services — Case Study*. ([ihi.org](https://www.ihi.org/sites/default/files/2023-10/ExperiencedBasedCodesign_InnovationCaseStudy.pdf "Experience-Based Co-Design of Health Care Services"))
+IHI/Commonwealth Fund. *Experience-Based Co-Design of Health Care Services — Case Study*. [Experience-Based Co-Design of Health Care Services](https://www.ihi.org/sites/default/files/2023-10/ExperiencedBasedCodesign_InnovationCaseStudy.pdf){target="_blank"}
 
-NHS Horizons. *Personas — how are they used in healthcare improvement?* ([NHS Horizons](https://horizonsnhs.com/programmes-of-work/personas/ "Personas"))
+Personas — how are they used in healthcare improvement? Este documento do NHS Horizons explica o que são personas e como usá-las no desenho de melhorias do sistema de saúde. A persona is a fictional character created to represent a group of users, typically patients or staff groups. [Personas: Using psychographic analysis to better understand groups of users. What are personas?](https://horizonsnhs.com/programmes-of-work/personas/){target="_blank"}
 
-Cochrane Equity. *PROGRESS-Plus*. ([methods.cochrane.org](https://methods.cochrane.org/equity/projects/evidence-equity/progress-plus "PROGRESS-Plus | Cochrane Equity"))
+Cochrane Equity. [PROGRESS-Plus | Cochrane Equity](https://methods.cochrane.org/equity/projects/evidence-equity/progress-plus){target="_blank"}
 
 ### Em síntese
 
-Personas são especialmente úteis quando combinadas com mapeamento de jornada e co-design para redesenhar itinerários terapêuticos: tornam visíveis barreiras e determinantes, orientam soluções específicas por perfil e facilitam decisões que reduzem tempos, melhoram continuidade e ampliam equidade. O ganho vem menos do “artefato em si” e mais do processo disciplinado de criar, validar, usar e medir personas ao longo de toda a linha de cuidado. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+Personas são especialmente úteis quando combinadas com mapeamento de jornada e co-design para redesenhar itinerários terapêuticos: tornam visíveis barreiras e determinantes, orientam soluções específicas por perfil e facilitam decisões que reduzem tempos, melhoram continuidade e ampliam equidade. O ganho vem menos do “artefato em si” e mais do processo disciplinado de criar, validar, usar e medir personas ao longo de toda a linha de cuidado. [The use of personas to involve consumers in healthcare co-design: a scoping review](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7){target="_blank"}
 
-## The use of personas to involve consumers in healthcare co-design: a scoping review
-
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC12054091/pdf/12913_2025_Article_12786.pdf>
+## [The use of personas to involve consumers in healthcare co-design: a scoping review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12054091/pdf/12913_2025_Article_12786.pdf){target="_blank"}
 
 Forças das personas\
 As personas foram relatadas como uma ferramenta eficaz para promover uma abordagem centrada no usuário no co-design e também como um valioso instrumento participativo. Elas foram usadas para manter o grupo de usuários — geralmente pacientes — em foco durante as discussões sobre ideias e soluções.
