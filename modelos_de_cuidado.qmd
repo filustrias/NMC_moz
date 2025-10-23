@@ -1,18 +1,68 @@
 # Modelos de Cuidado {.unnumbered}
 
 
+## Conceito e enquadramento
 
-## O que são Modelos de Cuidado (Models of Care - MoC)?
+“Modelo de cuidado” é a **conceitualização e a operacionalização** de como os serviços são entregues: processos clínicos, organização dos provedores, gestão do serviço e gestão populacional, com papéis e responsabilidades claros ao longo dos **percursos de cuidado**. Essa definição é adotada pela OMS/EMRO e é compatível com sua síntese inicial que distingue seleção/organização de serviços, plataformas de prestação, gestão do serviço e gestão da população. [PHC-oriented models of care](https://www.emro.who.int/uhc-health-systems/access-health-services/phc-oriented-models-of-care.html){target="_blank"}
 
-Um **Modelo de Cuidado (MoC)** é a conceitualização e operacionalização da forma como os serviços de saúde são entregues aos pacientes. Isso inclui os processos de cuidado, a organização dos prestadores e a gestão dos serviços, apoiados pela identificação clara dos papéis e responsabilidades das diferentes plataformas e prestadores ao longo dos percursos de cuidado.
-
-Um Modelo de Cuidado orientado para a Atenção Primária à Saúde (APS) é a **maneira como os serviços são selecionados, projetados, organizados, gerenciados e apoiados** pelas diferentes plataformas de prestação de serviços - presenciais, à distância, no domicílio.
-
-O desenvolvimento de um MoC orientado para a APS é uma prioridade máxima para a construção de um sistema de saúde resiliente e seguro. 90% das intervenções recomendadas para a Cobertura Universal de Saúde (CUS) podem ser fornecidas através da APS.
+Para sistemas orientados à APS, o modelo se ancora na agenda de **Serviços de Saúde Integrados e Centrados nas Pessoas** e no **Marco Operacional da APS (OMS/UNICEF)**, que detalham funções, alavancas e mensuração para transformar visão em operação. [Take home messages from the implementation of the primary health care measurement and improvement (PHCMI) initiative in the WHO Eastern Mediterranean Region (EMR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11955536/){target="_blank"}
 
 ## Organização e Tipos de Modelos de Cuidado
 
 Embora os componentes de um MoC possam variar, eles geralmente abrangem: a seleção e organização dos serviços (incluindo o pacote de serviços essenciais); a definição dos papéis e funções das plataformas de entrega de serviços; a gestão dos serviços (incluindo supervisão de apoio e equipes multidisciplinares); e a gestão da saúde populacional (incluindo o sistema de **alistamento** também chamado de *empanelment* ou **carterização** em português brasileiro — e o envolvimento comunitário).
+
+## Integração com o esquema 5S-5M-5C (seu resumo, com fonte)
+
+O 5S-5M-5C, proposto por Bitton et al. a partir do framework PHCPI, é um **atalho operacional**: 5 **insumos** (Systems, Space, Staff, Stuff, Surveillance) ativados por 5 **mecanismos** (Teams, Motivation, Measurement, Monitoring, Management) para produzir 5 **funções de qualidade** (Contato, Continuidade, Abrangência, Coordenação, Cuidado Centrado na Pessoa). O esquema ajuda a sair do investimento apenas em insumos e a priorizar **mecanismos de prestação**—exatamente a ênfase do seu texto. [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
+
+**Como usar na prática:** ao redesenhar um MoC, derive um “blueprint” onde cada intervenção proposta deixe explícito **qual M dos 5M aciona quais C dos 5C** e quais S precisam estar no lugar (ex.: equipe multiprofissional + supervisão de apoio → coordenação e continuidade; requer prontuário único e agenda integrada). [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
+
+## Por que “como” organizamos o cuidado muda resultados
+
+* **Brasil (análise longitudinal nacional)**: municípios com APS de **maior qualidade** – profissionais mais qualificados e **ACS integrados às equipes** – tiveram **reduções adicionais** de hospitalizações e mortalidade (diabetes, DCV, hanseníase), acima do efeito de ampliar acesso. Ou seja, **o desenho do modelo** importa, não só a cobertura. [The quality of alternative models of primary health care and morbidity and mortality in Brazil: a national longitudinal analysis](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X%2821%2900026-0/fulltext){target="_blank"}
+* **Integração APS–saúde mental/condições comportamentais**: modelos colaborativos em equipe (médico de família + gerente de caso + especialista) melhoram desfechos clínicos e **reduzem uso de urgência/hospital**; em crianças/adolescentes, metanálises mostram vantagem do cuidado colaborativo sobre o “usual care”. [Implementing High-Quality Primary Care: Rebuilding the Foundation of Health Care - Integrated Primary Care Delivery]( https://www.ncbi.nlm.nih.gov/books/NBK571813/){target="_blank"}
+
+* **Modelos liderados por enfermagem e organização do trabalho**: revisões relatam redução de erros de medicação e melhora de dor em “team nursing” e efeitos mistos em outros desfechos—reforçando a importância da **fidelidade de implementação** e do contexto. [Models of care in nursing: a systematic review](https://pubmed.ncbi.nlm.nih.gov/23173657/){target="_blank"}
+* **Equidade e PcD no Brasil**: estudo multicêntrico (REDECIN-BRASIL) mostra que o **modelo ESF** se associa a **maior frequência** de práticas voltadas às pessoas com deficiência do que o modelo tradicional de APS. [Primary health organization models and care practices for people with disabilities in Brazil](https://pubmed.ncbi.nlm.nih.gov/39936692/){target="_blank"}
+
+## Tipos/arquiteturas que recorrente aparecem
+
+* **APS ancorada na comunidade** (ESF, FPA/EMRO), com **empanelamento**, visitas domiciliares, coordenação com especializada e serviços sociais. [PHC-oriented models of care](https://www.emro.who.int/uhc-health-systems/access-health-services/phc-oriented-models-of-care.html){target="_blank"}
+* **Hub-and-spoke em redes primárias** (ex.: experiências documentadas por R4D e parceiros), para consolidar capacidade clínica e logística em “hubs” com **apoio matricial** aos “spokes”. [5 principles for building an innovative primary health care model](https://r4d.org/blog/5-principles-for-designing-an-innovative-primary-health-care-model/){target="_blank"}
+* **Integração horizontal/vertical** (ex.: coordenação de cuidados raros; transições criança-adulto), com papéis explícitos para **navegação**, **gestão de caso** e acordos de referência/contrarreferência. [Development of models of care coordination for rare conditions: a qualitative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8843018/){target="_blank"}
+* **Modelos híbridos pós-2030** (domicílio-centrados, digitais de baixo atrito, equipes multiprofissionais com alcance comunitário), apontados como direção estratégica para multimorbidade. [Models of global primary care post-2030 - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485077/){target="_blank"}
+
+## Ferramentas de desenho e avaliação (úteis para “tirar do papel”)
+
+* **Circle of Care Modeling** estrutura discussões entre stakeholders **a partir do paciente**, útil para evitar soluções preconcebidas de oferta. [Circle of care modelling: an approach to assist in reasoning about healthcare change using a patient-centric system](https://pubmed.ncbi.nlm.nih.gov/27716188/){target="_blank"}
+* **MoC Evaluation Tool (MCET)** oferece um checklist de 5 componentes para comparar/adaptar modelos em adoção. [Evaluating models of healthcare delivery using the Model of Care Evaluation Tool (MCET)](https://pubmed.ncbi.nlm.nih.gov/26693842/)
+* **Quadros de processo de cuidado** (task analysis rápida) apoiam desenho do “trabalho real” em clínicas e territórios. [A novel and practical care process framework to inform model of care development](https://pmc.ncbi.nlm.nih.gov/articles/PMC10291487/){target="_blank"}
+* **Padrões OMS/EMRO** e materiais de implementação (iniciativa regional) trazem passos, produtos e exemplos para **modelos orientados à APS**. [Designing and implementing primary health care-oriented models of care in the Eastern Mediterranean Region: Regional initiative for transforming vision into action](https://www.emro.who.int/about-who/rc70-presentations/designing-and-implementing-primary-health-care-oriented-models-of-care-in-the-region.html){target="_blank"}
+
+## Exemplos aplicados por linha de cuidado (o que muda no chão)
+
+* **Crônicas/multimorbidade**: modelos integrados com **gestão de painel**, consultas ampliadas, protocolos de intensificação, farmacêutico clínico e **telemonitoramento** mostram ganhos em processo/uso e, em cenários maduros, em desfechos. [Systematic review of integrated models of health care delivered at the primary-secondary interface: how effective is it and what determines effectiveness?](https://pubmed.ncbi.nlm.nih.gov/26329878/){target="_blank"}
+* **Oncologia e survivorship**: “survivorship care programs” (SCPs) e navegação estruturada são **factíveis**, mas exigem tempo e recursos; quando bem implementados, melhoram coordenação e experiência. [Models of Care in Providing Comprehensive Healthcare on Cancer Survivors: A Scoping Review with a TIDieR Checklist Analysis](https://pubmed.ncbi.nlm.nih.gov/38397613/){target="_blank"}
+
+* **Idosos e domiciliar**: revisões de arranjos domiciliares/comunitários (gestão de caso, cuidado integrado, consumer-directed) descrevem efeitos em uso de serviços e autonomia, dependendo do arranjo local e da integração social. [A systematic review of different models of home and community care services for older persons](https://www.ncbi.nlm.nih.gov/books/NBK82837/){target="_blank"}
+
+## Roteiro prático (em 6 passos) para (re)desenhar um MoC orientado à APS
+
+1. **Defina população, escopo e metas** (Triple/Quadruple Aim + equidade). Liste condições traçadoras e indicadores de percurso (tempo até diagnóstico, perdas de seguimento, readmissões). Baseie-se na definição OMS/EMRO para não confundir “programas” com “modelos”. [PHC-oriented models of care](https://www.emro.who.int/uhc-health-systems/access-health-services/phc-oriented-models-of-care.html){target="_blank"}
+2. **Mapeie jornada e bastidores** (journey + **service blueprint**), deixando claros papéis, TIC, regras de regulação e **hand-offs**. Marque onde cada **5M** será ativado. [Circle of care modelling: an approach to assist in reasoning about healthcare change using a patient-centric system](https://pubmed.ncbi.nlm.nih.gov/27716188/){target="_blank"}
+3. **Projete a equipe e governança clínica** (equipes multiprofissionais, escopo ampliado da enfermagem, farmácia clínica, saúde mental), com **supervisão de apoio** e protocolos. [Models of care in nursing: a systematic review](https://pubmed.ncbi.nlm.nih.gov/23173657/){target="_blank"}
+4. **Gestão populacional e empanelamento**, com busca ativa, estratificação de risco, **navegação** e integração com serviços sociais; garanta **medição e monitoramento** úteis à decisão (os dois “M” centrais do 5M). [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
+5. **Implemente em ciclos curtos** (PDSA) e avalie com ferramentas padronizadas (MCET; indicadores OMS/UNICEF para APS). [Evaluating models of healthcare delivery using the Model of Care Evaluation Tool (MCET)](https://pubmed.ncbi.nlm.nih.gov/26693842/){target="_blank"}
+6. **Planeje escala e adaptação** com princípios de design de MoC (adequação ao sistema existente; colaboração em rede; foco em necessidades claras; aprendizado contínuo; investimento em pessoas). [5 principles for building an innovative primary health care model](https://r4d.org/blog/5-principles-for-designing-an-innovative-primary-health-care-model/){target="_blank"}
+
+## Riscos comuns e como mitigar
+
+* **Construção subjetiva e “modelo de papel”** → use dados e validação com usuários/equipes; conecte cada intervenção a **um M e a um C** do 5S-5M-5C; acompanhe com indicadores de percurso e experiência. [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
+* **Baixa atenção à equidade/PROGRESS-Plus** → incorpore determinantes (residência, raça/etnia, ocupação, gênero, escolaridade, renda, capital social, deficiência) ao desenho do painel e dos fluxos. [Take home messages from the implementation of the primary health care measurement and improvement (PHCMI) initiative in the WHO Eastern Mediterranean Region (EMR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11955536/){target="_blank"}
+* **Fidelidade de implementação** → invista em supervisão, TI clínica e **papéis claros**; a evidência de efeitos positivos depende do “como” se opera o modelo. [Models of care in nursing: a systematic review](https://pubmed.ncbi.nlm.nih.gov/23173657/){target="_blank"}
+
+---
+
 
 **Exemplos e Abordagens de Organização:**
 
@@ -20,7 +70,7 @@ Embora os componentes de um MoC possam variar, eles geralmente abrangem: a sele�
 2.  **Modelo Hub and Spokes (Gana):** Em Gana, a iniciativa *Preferred Primary Provider (PPP) Networks* utiliza o modelo **Hub and Spokes (Centro e Raios)**. Neste modelo, quatro a cinco zonas menores (Raios) se conectam a um Centro de Saúde ou CHPS (Serviços de Planejamento e Saúde Comunitária) maior e mais capacitado (Centro), formando uma prática de grupo para fornecer cuidados abrangentes a uma população definida. Este modelo enfatiza a **colaboração** entre prestadores em vez da competição.
 3.  **Modelos de Organização de APS no Brasil:** Um estudo comparou o **Modelo de APS Tradicional** com o modelo da **Estratégia de Saúde da Família (ESF)**. O modelo ESF mostrou uma associação positiva e estatisticamente significante com uma **maior frequência de práticas** voltadas às Pessoas com Deficiência (PcD), como acompanhamento pré-natal, atendimento domiciliar e educação em saúde, em comparação com o Modelo de APS Tradicional.
 
-#### Enquadramentos Teóricos: O Esquema 5S-5M-5C
+## Enquadramentos Teóricos: O Esquema 5S-5M-5C
 
 O esquema **5S-5M-5C** é um modelo conceitual simplificado, derivado da *Primary Health Care Performance Initiative* (PHCPI), que detalha os mecanismos de prestação de serviços essenciais necessários para transformar insumos em sistemas de APS funcionais e equitativos. O objetivo principal é **transformar insumos do sistema nos resultados desejados da APS**.
 
@@ -63,5 +113,52 @@ Para o desenvolvimento da APS, é crucial **priorizar investimentos e pesquisas 
 
 Importante lembrar que o enquadramento 5S5M5C não se trata de uma resposta pronta para a forma de organizar o Modelo de Cuidado, mas sim um enquadramento com domínios explícitos para que, ao se planejar um serviço de saúde, nenhum aspecto importante fique de fora. 
 
+O enquadramento 5S-5M-5C é totalmente consistente com as definições operacionais da OMS e com a evidência disponível: **modelos de cuidado orientados à APS** funcionam quando ativam **mecanismos de prestação** (equipes, supervisão, medição/monitoramento, gestão populacional) sobre uma base de insumos adequada—e quando são desenhados e avaliados com ferramentas explícitas (journey/blueprint, MCET, indicadores OMS/UNICEF). Use o 5S-5M-5C como **matriz de responsabilização**: cada mudança proposta deve declarar **qual M** aciona **quais C** e **quais S** sustentam—e então medir o que prometeu. [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
 
 -----
+
+## Referências selecionadas
+
+* **OMS/EMRO.** *PHC-oriented models of care* (conceito, componentes, materiais de implementação). [PHC-oriented models of care](https://www.emro.who.int/uhc-health-systems/access-health-services/phc-oriented-models-of-care.html){target="_blank"}
+* [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"} **BMJ Glob Health**, 2018.
+* [The quality of alternative models of primary health care and morbidity and mortality in Brazil: a national longitudinal analysis](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X%2821%2900026-0/fulltext){target="_blank"} **Lancet Reg Health Am**, 2021. 
+* [Implementing High-Quality Primary Care: Rebuilding the Foundation of Health Care - Integrated Primary Care Delivery]( https://www.ncbi.nlm.nih.gov/books/NBK571813/){target="_blank"} **Robinson SK, et al.**: síntese de evidências para integração APS–saúde mental/comportamental.
+* [Models of care in nursing: a systematic review](https://pubmed.ncbi.nlm.nih.gov/23173657/){target="_blank"}
+* **Macedo MS, et al.** *Primary health organization models and care practices for people with disabilities in Brazil*.
+* [Primary health organization models and care practices for people with disabilities in Brazil](https://pubmed.ncbi.nlm.nih.gov/39936692/){target="_blank"} **Cien Saude Colet**, 2025. 
+* [Circle of care modelling: an approach to assist in reasoning about healthcare change using a patient-centric system](https://pubmed.ncbi.nlm.nih.gov/27716188/){target="_blank"} **Price M, et al.** *Circle of care modelling: a patient-centric approach to consider system change*. **JMIR**, 2016. (Ferramenta para redesenho). 
+* **Hudspeth RS, et al.** *Model of Care Evaluation Tool (MCET)*. **J Am Assoc Nurse Pract**, 2016. (Avaliação de MoC). [Evaluating models of healthcare delivery using the Model of Care Evaluation Tool (MCET)](https://pubmed.ncbi.nlm.nih.gov/26693842/){target="_blank"}
+* [Development of models of care coordination for rare conditions: a qualitative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8843018/){target="_blank"} **Walton H, et al.** (tipos de coordenação por contexto). **Orphanet J Rare Dis**, 2022. 
+* [Models of Care in Providing Comprehensive Healthcare on Cancer Survivors: A Scoping Review with a TIDieR Checklist Analysis](https://pubmed.ncbi.nlm.nih.gov/38397613/){target="_blank"} **Torreggiani M, et al. Front Public Health**, 2024.
+
+* [Models of global primary care post-2030 - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485077/){target="_blank"} **Allen LN, et al. Lancet Prim Care**, 2025. Rumos do desenho de Modelos de Cuidado para o futuro. 
+* [5 principles for building an innovative primary health care model](https://r4d.org/blog/5-principles-for-designing-an-innovative-primary-health-care-model/){target="_blank"} **Experiência em Gana realizada pelo R4D.** Tamara Chikhradze, Elizabeth Hammah, Ezinne Ezekwem, Chris Atim   |   February 20, 2020.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
