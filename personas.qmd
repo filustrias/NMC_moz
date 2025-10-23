@@ -1,0 +1,156 @@
+# Aplicabilidade do uso de personas para melhorias no sistema de saúde através do itinerário terapêutico {.unnumbered}
+
+## Por que usar personas em trajetórias de cuidado
+
+Em saúde, personas (perfis hipotéticos porém realistas) ajudam equipes a visualizar usuários, contextualizar suas experiências e gerar soluções alinhadas a atitudes, emoções, motivações e metas ao longo do itinerário terapêutico. Revisões recentes mostram crescimento acelerado do uso de personas desde 2019, sobretudo em países de alta renda, com aplicações em eHealth, redesenho de serviços e entendimento de comportamentos de uso. [The use of personas to involve consumers in healthcare co-design: a scoping review](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7){target="_blank"}
+
+Além de fomentar empatia e manter “o paciente no centro” nas discussões, personas funcionam como instrumento participativo quando o recrutamento direto é difícil (ex.: doença grave, tempo limitado). Elas também protegem a confidencialidade, pois permitem discutir necessidades sem expor dados pessoais.[The use of personas to involve consumers in healthcare co-design: a scoping review](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7){target="_blank"}
+
+## Evidências e casos de uso relevantes
+
+-   eHealth dor crônica — revisão sistemática descreve como personas orientam decisões de design (conteúdo, formato, engajamento) em intervenções digitais para dor crônica, apoiando aderência e personalização. [Using Personas in the development of eHealth interventions for chronic pain: A scoping review and narrative synthesis](https://www.sciencedirect.com/science/article/pii/S2214782923000192){target="_blank"}
+
+-   Oncologia pediátrica — no desenvolvimento de um serviço digital de apoio entre pares para sobreviventes de câncer infantil, personas de crianças (cocriadas com pacientes) guiaram escolhas de design e aumentaram a empatia da equipe. [Effects of Using Child Personas in the Development of a Digital Peer Support Service for Childhood Cancer Survivors](https://pmc.ncbi.nlm.nih.gov/articles/PMC5454220/){target="_blank"}
+
+-   Atenção Primária à Saúde (Health TAPESTRY) — método “persona-cenário” para co-desenhar intervenção complexa com idosos, provedores e voluntários; útil para mapear necessidades, fluxos e pontos de fricção na jornada (acesso, continuidade, coordenação). [Health TAPESTRY: co-designing interprofessional primary care programs for older adults using the persona-scenario method](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-019-1013-9){target="_blank"}
+
+-   Equidade no acesso digital — personas que capturam desvantagens interseccionais (idade, baixa renda, alfabetização digital, multicomorbidades) ajudam a adaptar a APS remota/digital a perfis vulneráveis. [Developing user personas to capture intersecting dimensions of disadvantage in older patients who are marginalised: a qualitative study](https://bjgp.org/content/74/741/e250){target="_blank"}
+
+-   Co-design e trabalho em equipes integradas — personas e artefatos de co-design apoiam entendimento compartilhado das necessidades de informação e pontos de transição entre serviços (ex.: ICS/integração). [Co-design with Integrated Care Teams: Establishing Information Needs](https://pmc.ncbi.nlm.nih.gov/articles/PMC10588545/){target="_blank"}
+
+-   EBD (Experience-Based Design) — guias NHS e estudos do IHI mostram como narrativas/“touchpoints de emoção” e, quando usados, personas e journey maps estruturam melhorias em experiência e segurança. [NHS - Experience based design Using patient and staff experience to design better healthcare services](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf){target="_blank"}
+
+## Como personas se conectam ao itinerário terapêutico
+
+Personas tornam visíveis as etapas críticas (pré-busca de cuidado → acesso → diagnóstico → tratamento → transições → seguimento), os atores (paciente, cuidador, APS, especializada, regulação), os recursos (transporte, conectividade, fármacos) e os modos de contato (presencial, telessaúde). Em redesign de linhas de cuidado (por exemplo, metas como o “Faster Diagnosis Standard” de 28 dias), personas ajudam a testar cenários “e se…?” e identificar gargalos (marcação, preparação de exames, devolutiva de resultados). [Case Study – Introducing the Role of Pathway Navigator to the South East Region Cancer Alliances – a current project](https://wessex.hee.nhs.uk/wider-workforce/cancer/11-cancer-and-diagnostics-careers-a-helpful-resource-guide/05-case-study-introducing-the-role-of-pathway-navigator-to-the-south-east-region-cancer-alliances-a-current-project/){target="_blank"}
+
+## Exemplos práticos de aplicação (com caminhos para implementação)
+
+1.  APS e acesso digital (Brasil/APS remota)
+
+```         
+1.  Personas: “Dona Maria, 72, baixa escolaridade, múltiplas DCNT, smartphone compartilhado;” “Seu José, 58, trabalhador informal, dados móveis intermitentes”.
+
+    -   Uso: mapear barreiras de triagem digital, agendamento e renovação de receitas; co-desenhar fluxos multimodais (telefone + WhatsApp + presencial), mensagens em linguagem simples, e apoio de navegação comunitária.
+
+    -   Evidência: personas para vulnerabilidade digital em APS e persona-cenário em intervenção com idosos. ([bjgp.org](https://bjgp.org/content/74/741/e250 "Developing user personas to capture intersecting ..."))
+```
+
+2.  Oncologia (linha de diagnóstico e tratamento)
+
+```         
+1.  'Personas: “mulher 45a com cuidado infantil, renda instável, sintomas intermitentes”; “homem 67a rural, sem carro, baixa literacia em saúde”.
+
+    -    Uso: journey maps por persona → tempos de espera por etapa; prototipar papel de “navegador de percurso”, pré-consulta remota para preparo de exames e sinalização ativa de faltas.
+
+    -   Contexto e guias: padrões de via rápida (28/62 dias), casos NHS de redesenho de vias; personas aumentam a aderência da equipe a soluções centradas no paciente. ([wessex.hee.nhs.uk](https://wessex.hee.nhs.uk/wider-workforce/cancer/11-cancer-and-diagnostics-careers-a-helpful-resource-guide/05-case-study-introducing-the-role-of-pathway-navigator-to-the-south-east-region-cancer-alliances-a-current-project/ "Case Study - Introducing the Role of Pathway Navigator to the ..."))
+```
+
+3.  Condições crônicas e autocuidado digital
+
+```         
+1.  Personas orientam conteúdo, feedback e escalonamento clínico em apps de dor crônica/condições crônicas, aumentando relevância e engajamento ao longo da trajetória (auto-monitoramento → APS → especializada). ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214782923000192 "Using Personas in the development of eHealth ..."))
+```
+
+## Passo a passo recomendado (rápido e acionável)
+
+1.  Defina escopo da linha de cuidado (ex.: “suspeita-diagnóstico-início de tratamento em câncer de cabeça e pescoço”). Liste metas (p.ex., tempo até diagnóstico, taxa de não comparecimento, continuidade). ([Q Community](https://q.health.org.uk/resources/using-lean-to-redesign-pathways "Using Lean to redesign pathways - Q Community"))
+
+2.  Colete dados mistos: entrevistas/observação, bases administrativas, tempos de fluxo, queixas, reclamações, dados de desigualdade. (EBD/EBCD). ([NHS England](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf "Experience Based Design: Guide & Tools"))
+
+3.  Crie personas ancoradas em evidências (não estereótipos): sintetize padrões de necessidades e comportamentos; valide com usuários e equipe clínica. ([BioMed Central](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-019-1013-9 "Health TAPESTRY: co-designing interprofessional primary ..."))
+
+4.  Incorpore equidade com PROGRESS-Plus na criação das personas (residência, raça/etnia, ocupação, gênero, escolaridade, renda, capital social, deficiência etc.). ([methods.cochrane.org](https://methods.cochrane.org/equity/projects/evidence-equity/progress-plus "PROGRESS-Plus | Cochrane Equity"))
+
+5.  Mapeie a jornada por persona: passos, emoções, dores, pontos de handoff, canais, prazos; identifique gargalos e riscos de segurança. (Use oficinas de co-design). ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10588545/ "Co-design with Integrated Care Teams: Establishing ..."))
+
+6.  Coconstrua soluções: navegação de percurso, checklists de preparo, mensagens segmentadas, triagem combinada digital/presencial, “one-stop clinics”, ajustes de agenda/regulação. (Teste com cenários de cada persona). ([Fab NHS Stuff](https://fabnhsstuff.net/fab-stuff/re-designing-cancer-pathways "Re-designing Cancer Pathways"))
+
+7.  Implemente e meça: defina indicadores por persona (tempo até diagnóstico, completude de exames, readmissões, experiência relatada) e retroalimente o desenho. (EBD/EBCD). ([NHS England](#0 "Experience Based Design: Guide & Tools"))
+
+## Limitações e como mitigá-las
+
+-   Construção subjetiva/sesgos → mitigar com dados reais, métodos transparentes, validação com usuários, e atualização periódica. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+
+-   Custo/tempo → usar templates e kits (NHS Horizons/EBD), amostras teóricas enxutas e priorização por alto impacto no fluxo. ([NHS Horizons](https://horizonsnhs.com/programmes-of-work/personas/ "Personas"))
+
+-   Baixa representação de determinantes (raça/etnia, escolaridade, renda, religião) → exigir checklist PROGRESS-Plus em cada persona e metas de inclusão. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+
+## Referências essenciais (seleção)
+
+Dominello A, Cheek C, Clay-Williams R. *The use of personas to involve consumers in healthcare co-design: a scoping review*. BMC Health Serv Res, 2025. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+
+Bartels SL et al. *Using Personas in the development of eHealth interventions: chronic pain*. 2023. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214782923000192 "Using Personas in the development of eHealth ..."))
+
+Cooper DJ et al. *Enhancing healthcare with patient personas: a systematic review*. J Healthc Risk Manag, 2025. ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/jhrm.70014 "Enhancing healthcare with patient personas: A systematic ..."))
+
+Wärnestål P et al. *Effects of Using Child Personas… childhood cancer survivors*. J Med Internet Res, 2017. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5454220/ "Effects of Using Child Personas in the Development of a ..."))
+
+Valaitis R et al. *Persona-scenario exercise for co-designing primary care interventions*; e *Health TAPESTRY*. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3952768/ "Persona-scenario exercise for codesigning primary care ..."))
+
+Husain L et al. *Developing user personas to capture intersecting disadvantage in remote/digital primary care*. BJGP, 2024. ([bjgp.org](https://bjgp.org/content/74/741/e250 "Developing user personas to capture intersecting ..."))
+
+NHS Institute. *Experience-Based Design: Guide & Toolkit*. ([NHS England](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/Experience-Based-Design-Guide-and-Toolkit.pdf "Experience Based Design: Guide & Tools"))
+
+IHI/Commonwealth Fund. *Experience-Based Co-Design of Health Care Services — Case Study*. ([ihi.org](https://www.ihi.org/sites/default/files/2023-10/ExperiencedBasedCodesign_InnovationCaseStudy.pdf "Experience-Based Co-Design of Health Care Services"))
+
+NHS Horizons. *Personas — how are they used in healthcare improvement?* ([NHS Horizons](https://horizonsnhs.com/programmes-of-work/personas/ "Personas"))
+
+Cochrane Equity. *PROGRESS-Plus*. ([methods.cochrane.org](https://methods.cochrane.org/equity/projects/evidence-equity/progress-plus "PROGRESS-Plus | Cochrane Equity"))
+
+### Em síntese
+
+Personas são especialmente úteis quando combinadas com mapeamento de jornada e co-design para redesenhar itinerários terapêuticos: tornam visíveis barreiras e determinantes, orientam soluções específicas por perfil e facilitam decisões que reduzem tempos, melhoram continuidade e ampliam equidade. O ganho vem menos do “artefato em si” e mais do processo disciplinado de criar, validar, usar e medir personas ao longo de toda a linha de cuidado. ([BioMed Central](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-12786-7 "The use of personas to involve consumers in healthcare co ..."))
+
+## The use of personas to involve consumers in healthcare co-design: a scoping review
+
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC12054091/pdf/12913_2025_Article_12786.pdf>
+
+Forças das personas\
+As personas foram relatadas como uma ferramenta eficaz para promover uma abordagem centrada no usuário no co-design e também como um valioso instrumento participativo. Elas foram usadas para manter o grupo de usuários — geralmente pacientes — em foco durante as discussões sobre ideias e soluções.
+
+Por exemplo, foi relatado que as ideias de protótipos para um serviço digital de apoio entre pares foram projetadas para se alinhar com os objetivos, preferências e atitudes das personas e superar as frustrações descritas nelas. As personas também foram apontadas como geradoras de empatia e como formas de privilegiar experiências enquanto histórias a serem compartilhadas.
+
+As equipes de projeto usaram personas como um substituto das perspectivas dos pacientes quando o recrutamento de participantes era desafiador ou quando o estado de saúde do grupo dificultava sua participação, garantindo que suas necessidades fossem consideradas no co-design.
+
+Como instrumento participativo, as personas foram descritas como uma ferramenta que ajudava os participantes a criar e inovar, a evocar ideias ricas, a facilitar o envolvimento dos participantes, a pensar além de suas próprias experiências e a gerar um senso de pertencimento quando participavam da criação das personas.
+
+Em vários estudos, foi mantido um nível de confidencialidade quando os participantes descreviam as experiências, necessidades e ideias das personas sem precisar revelar suas próprias informações pessoais ou experiências.
+
+As equipes de pesquisa ou de projeto usaram as personas como uma ferramenta para especificar os resultados ou aspectos que queriam explorar, para capturar múltiplas experiências de usuários, como instrumento de consenso e como auxílio à comunicação.
+
+Limitações das personas\
+As limitações das personas foram relatadas em alguns estudos. Parte deles observou que a construção subjetiva das personas pode resultar em representações tendenciosas ou menos autênticas; outros descreveram o desenvolvimento das personas como algo que consome muitos recursos e tempo; e um estudo reconheceu que o uso de personas e cenários limitou a participação a pessoas que sabiam ler em inglês.
+
+Em todos os estudos, os consumidores estiveram envolvidos nos processos de identificar, analisar, definir e projetar. De particular interesse para esta revisão, as personas foram usadas para facilitar o envolvimento dos consumidores em todos os processos de co-design: identificar, analisar, definir e projetar.
+
+Na maioria dos casos, as personas foram usadas em múltiplos processos de co-design. O uso de personas tanto nos processos de análise quanto de definição foi a combinação mais frequente. Um estudo relatou o uso de personas em todos os quatro processos de co-design.
+
+Os resultados mostraram que os determinantes adicionais do modelo PROGRESS-Plus — como a orientação sexual — foram relatados em mais de 90% dos estudos. Os fatores menos relatados foram religião, raça ou etnia, posição socioeconômica e escolaridade.
+
+Características das personas\
+O uso relatado de personas para envolver consumidores no co-design em saúde aumentou acentuadamente desde 2019. Os estudos revisados foram, em geral, realizados em países de alta renda e descreveram o desenvolvimento de soluções tecnológicas ou pesquisas para compreender atitudes e comportamentos. Personas são usuários ou clientes hipotéticos, porém realistas. Observamos que sua autenticidade derivava de dados de pesquisa ou da contribuição de pessoas usuárias. Contudo, houve grande variação em como as personas foram projetadas, apresentadas e utilizadas como ferramenta de co-design.
+
+As personas foram empregadas com sucesso para elevar a centralidade do consumidor no co-design por meio da empatia provocada por uma compreensão profunda de atitudes, emoções, motivações e metas. Serviram para visualizar usuários, contextualizar suas experiências e gerar soluções que atendessem às suas necessidades. Por exemplo, Ha e colaboradores criaram usuários virtuais de uma plataforma de serviços de saúde digital para identificar requisitos e prever comportamentos quando o novo serviço fosse implementado.
+
+Valaitis e colaboradores distinguiram personas de outros métodos, como grupos focais e entrevistas, que tradicionalmente envolvem consumidores como “consultores” que respondem a perguntas e agendas de pesquisadores. Com personas, as necessidades, ideias e soluções passaram a ser centradas nos consumidores e contrariaram visões ingênuas, estereotipadas ou desatualizadas por vezes presentes em equipes de design ou outros atores do co-design.
+
+Price e colaboradores relataram uma abordagem de “modelagem do círculo de cuidado” para considerar mudanças no sistema de saúde. Os autores descreveram como as personas forneceram uma estrutura de discussão centrada no paciente: as partes interessadas examinavam benefícios, desafios e riscos de diferentes opções de cuidado referindo-se às personas durante as discussões. As personas ajudaram a focar nas necessidades dos pacientes e nas lacunas de serviço, em vez de requisitos organizacionais e soluções preconcebidas.
+
+O estudo de Wärnestål e colaboradores oferece um exemplo da atenção e compreensão despertadas na equipe por personas autênticas e relacionáveis. A equipe sueca usou personas para desenvolver um serviço digital de apoio entre pares para sobreviventes de câncer infantil. As personas de crianças foram criadas com a participação delas e funcionaram como uma ferramenta eficaz para decisões ao longo do processo de design. A equipe relatou que as personas evocaram soluções mais empáticas do que se estivessem projetando para “usuários” de modo abstrato.
+
+As personas também foram um instrumento participativo valioso para estimular discussão e apoiar participantes do co-design a expressarem opiniões. Inspiraram criatividade e impulsionaram a inovação em sessões de co-design por meio de debates vibrantes. Quando usadas em sessões com consumidores junto a outros atores como parceiros iguais, permitiram considerar múltiplas perspectivas; os participantes podiam recorrer às próprias experiências e, ao mesmo tempo, “calçar os sapatos de outra pessoa” e pensar além de si. As personas ofereceram privacidade: os participantes podiam projetar nelas suas necessidades e ideias sem revelar informações pessoais ou vivências — algo especialmente importante em temas sensíveis como comportamento sexual e saúde mental e em populações prioritárias como famílias em situação de adversidade e pessoas que usam drogas injetáveis. As personas também foram úteis como meio de comunicação dentro das equipes e para divulgação externa dos projetos.
+
+Embora os estudos tenham sido majoritariamente positivos, foram descritas limitações quanto ao escopo das personas e potencial de vieses. Também se observou que desenvolvê-las e aplicá-las no co-design requer tempo e recursos.
+
+O uso de personas nos processos de co-design\
+Utilizamos o referencial apresentado por Vargas e colaboradores para registrar os processos de co-design com envolvimento de consumidores e acompanhar sua amplitude (Figura 3), embora não tenhamos avaliado a profundidade do envolvimento nem definido um limiar mínimo para relatá-lo (Tabela 3). Observamos que o processo de identificar foi pouco descrito. Identificar atores relevantes e o contexto em que um projeto opera cria oportunidades para explorar a diversidade de valores e experiências que podem influenciar necessidades e soluções em saúde. Processos subsequentes de co-design podem ficar limitados sem uma consideração generosa da complexidade contextual.
+
+Também se verificou envolvimento relativamente limitado dos consumidores no processo de design, o que pode levar à implementação de soluções que não centralizem o consumidor e se mostrem insustentáveis. As personas foram amplamente relatadas nos processos de analisar e definir (Figura 3). Usá-las para compreender experiências de consumidores e demais atores, priorizar problemas e gerar soluções criativas e novas se alinha aos atributos das personas como ferramenta participativa eficaz que aprimora a experiência do usuário.
+
+Hall e colaboradores descreveram com elegância o co-design de um hub integrado de saúde e assistência social para famílias em situação de adversidade. Consumidores e provedores participaram do desenvolvimento de personas e de oficinas de co-design para desenhar o modelo do hub, de modo que o envolvimento do consumidor ficou evidente em todos os processos de co-design de Vargas. O envolvimento construiu confiança comunitária e senso de pertencimento ao modelo. As personas foram empregadas em todos os processos de co-design, exceto no de identificar, e funcionaram como ferramenta de storytelling eficaz para construir empatia e adotar uma abordagem centrada no usuário ao longo de todo o projeto. A satisfação com a cultura participativa das oficinas, medida por um instrumento de avaliação de engajamento de pacientes e público, foi muito alta, e os participantes apreciaram o caráter prático do co-design.
+
+Envolvimento de populações prioritárias\
+Usamos a ferramenta PROGRESS-Plus para verificar se as personas contemplavam ou envolviam consumidores que enfrentam fatores conhecidos por limitar sua participação plena nos serviços de saúde e em seu desenho. Constatamos que fatores como ocupação, capital social, gênero, local de residência e determinantes adicionais, como deficiência, foram relatados em pelo menos metade dos estudos. Por outro lado, religião, raça/etnia, posição socioeconômica e escolaridade — todos determinantes importantes da saúde — foram pouco relatados. As razões não são claras, mas é possível que personas sejam apresentadas com características pouco definidas para torná-las relacionáveis a um público amplo e que o recrutamento de consumidores de populações prioritárias para sessões de co-design seja desafiador.
+
+Esse achado sinaliza a necessidade de incluir deliberadamente comunidades diversas e subatendidas no co-design e reforça a importância de seu envolvimento na etapa de identificar. Priorizar a participação de grupos prioritários em todos os processos de co-design e usar ferramentas criativas, como personas, para apoiar essa participação pode resultar em intervenções aceitáveis, adequadas ao contexto e potencialmente mais eficazes. Maenhout e colaboradores encontraram viabilidade de cocriação com adolescentes com deficiência intelectual quando se usam métodos criativos. De modo semelhante, em um estudo com pessoas com doença de Parkinson, demência ou afasia, Neate e colaboradores observaram que personas cocriadas incentivaram pessoas com necessidades diversas a se engajar no co-design. O envolvimento de consumidores no processo de identificar e uma abordagem de co-design baseada em fortalezas — que enfatiza recursos e capacidades dos consumidores — podem favorecer inovações em saúde que atendam melhor às populações prioritárias.

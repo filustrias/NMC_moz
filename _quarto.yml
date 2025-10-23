@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Novo Modelo de Cuidado em Moçambique"
+  date: "10/22/2025"
+  chapters:
+    - index.qmd
+    - introducao.qmd
+    - modelos_de_cuidado.qmd
+    - personas.qmd
+    - nossas_personas.qmd
+    - tarefas_e_cronograma.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: cyborg
+    # mainfont: "Nunito Sans"
+    # sansfont: "Poppins"
+    # googlefonts: true
+    mainfont: "IBM Plex Sans"
+    sansfont: "Lato"
+    googlefonts: true
+    css: styles.css
+    code-copy: true
+    page-layout: full
+    smooth-scroll: true
+
+# editor: visual

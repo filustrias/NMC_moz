@@ -1,0 +1,35 @@
+/* Importa as fontes diretamente do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Lato:wght@400;700&display=swap');
+
+/* Define a hierarquia global de fontes */
+body {
+  font-family: 'IBM Plex Sans', 'Lato', sans-serif !important;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #222;
+}
+
+/* Cabeçalhos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', 'IBM Plex Sans', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 1.4em;
+}
+
+/* Títulos da barra lateral e menu */
+.sidebar, .book-menu, nav, a, p, li, .sidebar-item-text {
+  font-family: 'IBM Plex Sans', 'Lato', sans-serif !important;
+}
+
+/* Ajusta aparência geral para Flatly/Cyborg */
+:root {
+  --bs-body-font-family: 'IBM Plex Sans', sans-serif;
+  --bs-font-sans-serif: 'IBM Plex Sans', sans-serif;
+}
+
+/* Opcional: mais contraste no modo escuro */
+body.quarto-dark {
+  color: #ddd;
+  background-color: #111;
+}

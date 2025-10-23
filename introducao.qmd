@@ -1,0 +1,3 @@
+# Sobre este projeto {.unnumbered}
+
+Este documento foi criado para organizar as etapas e tarefas proposta para condução nosso projeto para a **criação de un Novo Modelo de Cuidado em Moçambique.**
