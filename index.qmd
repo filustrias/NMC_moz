@@ -3,6 +3,9 @@
 
 Estão aqui documentados os passos realizados no projeto para cruiação de um **Novo Modelo de Cuidados de Saúde Primários para Moçambique.** 
 
+
+![](images/grupo.jpg)
+
 Participam deste projeto:
 
 1. Amiggini Assiete Armando De Azevedo Sacuro
