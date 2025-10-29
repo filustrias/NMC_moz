@@ -9,3 +9,17 @@
 4.  Desenho Novo Modelo de Cuidados - Através da análise do itinerário das personas, identificamos o que precisamos – e podemos hoje – ter no nosso NMC.
 
 5.  Desenho prontuário - Usando o KoboTootlBox desenhamos um instrumento eletrônico para registro de informações de pacientes.
+
+1\. Terminar as personas (precisam ser abrangentes e dar conta de todo o universo de pacientes que estamos lidando)
+2. Começar o itinerário terapêutico (mais tardar, em 5 de novembro).
+3. Mapear o que há de comum do 5S5M5C para cada persona e itinerário.
+
+No encontro de 26 de novembro devemos ter uma primeira versão (ainda bruta) do nosso Novo Modelo de Cuidado.
+
+Começo de 2026 - janeiro:
+
+Implementar nas unidades de saúde nas quais vocês trabalham:
+
+1. Conversar com os chefes (da província, das unidades).
+2. Conversar com as pessoas da unidade que queiram participar do NMC.
+3. Determinar data para começar na unidade (isso pode variar).

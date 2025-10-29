@@ -11,11 +11,11 @@ Para sistemas orientados à APS, o modelo se ancora na agenda de **Serviços de 
 
 Embora os componentes de um MoC possam variar, eles geralmente abrangem: a seleção e organização dos serviços (incluindo o pacote de serviços essenciais); a definição dos papéis e funções das plataformas de entrega de serviços; a gestão dos serviços (incluindo supervisão de apoio e equipes multidisciplinares); e a gestão da saúde populacional (incluindo o sistema de **alistamento** também chamado de *empanelment* ou **carterização** em português brasileiro — e o envolvimento comunitário).
 
-## Integração com o esquema 5S-5M-5C (seu resumo, com fonte)
+## Integração com o esquema 5S-5M-5C
 
 O 5S-5M-5C, proposto por Bitton et al. a partir do framework PHCPI, é um **atalho operacional**: 5 **insumos** (Systems, Space, Staff, Stuff, Surveillance) ativados por 5 **mecanismos** (Teams, Motivation, Measurement, Monitoring, Management) para produzir 5 **funções de qualidade** (Contato, Continuidade, Abrangência, Coordenação, Cuidado Centrado na Pessoa). O esquema ajuda a sair do investimento apenas em insumos e a priorizar **mecanismos de prestação**—exatamente a ênfase do seu texto. [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
 
-**Como usar na prática:** ao redesenhar um MoC, derive um “blueprint” onde cada intervenção proposta deixe explícito **qual M dos 5M aciona quais C dos 5C** e quais S precisam estar no lugar (ex.: equipe multiprofissional + supervisão de apoio → coordenação e continuidade; requer prontuário único e agenda integrada). [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
+**Como usar na prática:** ao redesenhar um MoC, derive um “blueprint” onde cada intervenção proposta deixe explícito **qual M dos 5M aciona quais C dos 5C** e quais S precisam estar no lugar (ex.: equipe multiprofissional + supervisão de apoio → coordenação e continuidade; requer prontuário único e agenda integrada).
 
 ## Por que “como” organizamos o cuidado muda resultados
 
@@ -32,7 +32,7 @@ O 5S-5M-5C, proposto por Bitton et al. a partir do framework PHCPI, é um **atal
 * **Integração horizontal/vertical** (ex.: coordenação de cuidados raros; transições criança-adulto), com papéis explícitos para **navegação**, **gestão de caso** e acordos de referência/contrarreferência. [Development of models of care coordination for rare conditions: a qualitative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8843018/){target="_blank"}
 * **Modelos híbridos pós-2030** (domicílio-centrados, digitais de baixo atrito, equipes multiprofissionais com alcance comunitário), apontados como direção estratégica para multimorbidade. [Models of global primary care post-2030 - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485077/){target="_blank"}
 
-## Ferramentas de desenho e avaliação (úteis para “tirar do papel”)
+## Ferramentas de desenho e avaliação
 
 * **Circle of Care Modeling** estrutura discussões entre stakeholders **a partir do paciente**, útil para evitar soluções preconcebidas de oferta. [Circle of care modelling: an approach to assist in reasoning about healthcare change using a patient-centric system](https://pubmed.ncbi.nlm.nih.gov/27716188/){target="_blank"}
 * **MoC Evaluation Tool (MCET)** oferece um checklist de 5 componentes para comparar/adaptar modelos em adoção. [Evaluating models of healthcare delivery using the Model of Care Evaluation Tool (MCET)](https://pubmed.ncbi.nlm.nih.gov/26693842/)
@@ -113,7 +113,7 @@ Para o desenvolvimento da APS, é crucial **priorizar investimentos e pesquisas 
 
 Importante lembrar que o enquadramento 5S5M5C não se trata de uma resposta pronta para a forma de organizar o Modelo de Cuidado, mas sim um enquadramento com domínios explícitos para que, ao se planejar um serviço de saúde, nenhum aspecto importante fique de fora. 
 
-O enquadramento 5S-5M-5C é totalmente consistente com as definições operacionais da OMS e com a evidência disponível: **modelos de cuidado orientados à APS** funcionam quando ativam **mecanismos de prestação** (equipes, supervisão, medição/monitoramento, gestão populacional) sobre uma base de insumos adequada—e quando são desenhados e avaliados com ferramentas explícitas (journey/blueprint, MCET, indicadores OMS/UNICEF). Use o 5S-5M-5C como **matriz de responsabilização**: cada mudança proposta deve declarar **qual M** aciona **quais C** e **quais S** sustentam—e então medir o que prometeu. [The 5S-5M-5C schematic: transforming primary care inputs to outcomes in low-income and middle-income countries](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169658/){target="_blank"}
+O enquadramento 5S-5M-5C é totalmente consistente com as definições operacionais da OMS e com a evidência disponível: **modelos de cuidado orientados à APS** funcionam quando ativam **mecanismos de prestação** (equipes, supervisão, medição/monitoramento, gestão populacional) sobre uma base de insumos adequada—e quando são desenhados e avaliados com ferramentas explícitas (journey/blueprint, MCET, indicadores OMS/UNICEF). Use o 5S-5M-5C como **matriz de responsabilização**: cada mudança proposta deve declarar **qual M** aciona **quais C** e **quais S** sustentam—e então medir o que prometeu. 
 
 -----
 
