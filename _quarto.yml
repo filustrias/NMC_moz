@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Novo Modelo de Cuidado em Moçambique"
+  title: "MATAPA Project - Model of Care with Teamwork, Access, Participation and Coordination"
   date: "10/22/2025"
   chapters:
     - index.qmd
@@ -12,7 +12,7 @@ book:
     - personas.qmd
     - itinerario.qmd
     - nossas_personas.qmd
-    - tarefas_e_cronograma.qmd
+    ## - tarefas_e_cronograma.qmd
 
 bibliography: references.bib
 

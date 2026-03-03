@@ -1,12 +1,18 @@
-# Apresentação {.unnumbered}
+# Presentation {.unnumbered}
 
 
-Estão aqui documentados os passos realizados no projeto para cruiação de um **Novo Modelo de Cuidados de Saúde Primários para Moçambique.** 
+
+
+### MATAPA Project - Model of Care with Teamwork, Access, Participation and Coordination for the Design, implementation and evaluation of a new Primary Health Care model for Mozambique. 
+
+This project is already under development in its early stages by the National Institute of Health
+in partnership with Mozambican and international leaders in Family and Community Medicine.
+
 
 
 ![](images/grupo.jpg)
 
-Participam deste projeto:
+project participants:
 
 
 1. Amiggini Assiete Armando De Azevedo Sacuro
